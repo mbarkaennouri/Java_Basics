@@ -5,9 +5,9 @@ Ce projet montre un exemple simple d'automatisation de tests fonctionnels avec *
 
 ## Objectif du projet
 
-Automatiser le scénario de **connexion utilisateur** sur une application web de démonstration (ex: https://example.test/login).
+Automatiser le scénario de **connexion utilisateur** sur une application web de démonstration (https://www.orangehrm.com/).
 
----
+--- 
 
 ## Technologies & Outils utilisés
 
