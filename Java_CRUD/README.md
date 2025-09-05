@@ -37,9 +37,7 @@ Une base de données nommée gestion_personne (à créer avant exécution)
 🚀 Installation & Exécution
 
 Cloner le projet :
-
-git clone https://github.com/<ton-username>/<nom-du-repo>.git
-
+git clone https://github.com/mbarkaennouri/Java_Basics.git
 
 Importer le projet dans ton IDE (Eclipse, IntelliJ, NetBeans).
 
